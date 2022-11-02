@@ -52,7 +52,7 @@ export default class App extends React.Component{
       <blockquote className="blockquote blockquote-centered">
         <p>
           Created by
-          <a href="http://twitter.com/mironcatalin"> @mironcatalin</a>
+          <a href="http://github.com/loricallum"> @loricallum</a>
         </p>
       </blockquote>
     </div>;
