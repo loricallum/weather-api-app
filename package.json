@@ -1,5 +1,5 @@
 {
-  "name": "weathereact",
+  "name": "weather-api-app",
   "version": "1.0.0",
   "description": "Reactjs app using Open Weather API - http://openweathermap.org/api",
   "main": "index.js",
@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/catalinmiron/weathereact"
+    "url": " "
   },
-  "author": "Catalin Miron",
+  "author": "Lori C",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer-core": "^5.2.1",
